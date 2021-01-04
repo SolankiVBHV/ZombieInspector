@@ -5,3 +5,10 @@ Note:
 1. Add details for variable `SHEET_ID` and `token` in `smartsheetFunction.py`.
 2. Add Teams bot token for `access_token` and Teams room ID for `roomId`.
 3. This tool would need LAN access to the nodes that needs monitoring and internet access(either direct or via proxy) to update the Smartsheet and Teams bot. 
+
+### Result preview: 
+1. ### Smartsheet 
+   ![Smartsheet Result!](media\zombiesmartsheet.png "Smartsheet snippet")
+
+2. ### Teams Room 
+   ![Teams result!](media\zombiesmartsheet_teams.png "Cisco Teams snippet")
