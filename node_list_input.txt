@@ -1,1 +1,1 @@
-C1-CM,ip,username,password
+C1-CM(tag),ip,username,password
