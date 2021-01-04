@@ -1,8 +1,7 @@
-from datetime import datetime
 import paramiko
 from paramiko_expect import SSHClientInteraction
 import re
-from concurrent.futures import ThreadPoolExecutor, as_completed
+from concurrent.futures import ThreadPoolExecutor
 
 class NodeActions():
     def __init__(self):

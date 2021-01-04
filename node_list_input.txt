@@ -1,5 +1,1 @@
-C1-CM,10.106.234.170,admin,C1$c0@cm$@h$bc
-C1-IMP1,10.106.234.172,admin,C1$c0@cm$@h$bc
-C1-UC1,10.106.234.149,admin,C1$c0@cm$@h$bc
-C1-UC2,10.106.234.170,admin,C1$c0@cm$@h$bc
-CL1-CCX1,10.106.234.172,admin,C1$c0@cm$@h$bc
+C1-CM(tag),ip,username,password
