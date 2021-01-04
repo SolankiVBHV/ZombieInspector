@@ -10,6 +10,6 @@ class WebExActions():
         self.teams_api.messages.create(roomId=self.roomId, text=message)
         
     def send_zombie_message(self, cluster_list):
-        message = "Zombies detected for following cluster: **" + str(cluster_list) + "**. Details are documented [here](https://app.smartsheet.com/sheets/JfGFwhqf6v6mGJJVVMF5hxhjpX52X2pW76x9Qwh1)" 
+        message = "Zombies detected for following cluster: **" + str(cluster_list) + "**. Details are documented [here](link to your smartsheet)" 
         file_path = "https://media.giphy.com/media/Wt1aWlM4FfBhU1w6ev/giphy.gif"
         self.teams_api.messages.create(roomId=self.roomId, markdown=message,files=[file_path])
