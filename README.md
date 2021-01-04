@@ -8,7 +8,7 @@ Note:
 
 ### Result preview: 
 1. ### Smartsheet 
-   ![Smartsheet Result!](media\zombiesmartsheet.png "Smartsheet snippet")
+   ![Smartsheet Result!](/media/zombiesmartsheet.png "Smartsheet snippet")
 
 2. ### Teams Room 
-   ![Teams result!](media\zombiesmartsheet_teams.png "Cisco Teams snippet")
+   ![Teams result!](/media/zombiesmartsheet_teams.png "Cisco Teams snippet")
