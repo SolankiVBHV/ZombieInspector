@@ -114,7 +114,7 @@ cluster_zombie_result_return = runner()
 print(cluster_zombie_result_return)
 ssObject = ssActions()
 cluster_zombie_result_return['Time'] = datetime.now()
-# hard coding failure 
+# hard coding failure for testing
 # cluster_zombie_result_return['US1'] = 3
 ssObject.add_row(tag_column_mapping, cluster_zombie_result_return)
 teamsObj = WebExActions()
